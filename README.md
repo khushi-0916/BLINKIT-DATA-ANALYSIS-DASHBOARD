@@ -2,7 +2,7 @@ The Excel Workbook Contain 3 Worksheets
 - Structured  Data
 - Pivot tables
 - Dashboard
-- 
+ 
 Requirements considered for the Dashboard 
     KPI’s
     Sales by outlet type
